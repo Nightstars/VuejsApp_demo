@@ -1,2 +1,2 @@
 # VuejsApp_demo
-preview:
+preview:https://nightstars.github.io/VuejsApp_demo/
